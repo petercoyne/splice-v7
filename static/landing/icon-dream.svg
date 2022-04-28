@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="29px" viewBox="0 0 39 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-Copy-13" transform="translate(-173.000000, -517.000000)" fill="#FFFFFF" stroke="#CC7900" stroke-width="2">
+            <g id="cloud" transform="translate(174.000000, 518.000000)">
+                <path d="M28.5933276,10.1260399 L26.4748462,10.1260399 C24.7270392,3.33241776 18.084844,-0.98476901 11.1928749,0.193310886 C4.30090569,1.37139078 -0.542758692,7.65191487 0.0488572308,14.6431707 C0.640473153,21.6344265 6.4700992,27.0052288 13.4613174,27 L28.5933276,27 C33.2362046,27 37,23.2226324 37,18.563018 C37,13.9034036 33.2362046,10.1260399 28.5933276,10.1260399 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

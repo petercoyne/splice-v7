@@ -1,3 +1,50 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.gilroy {
+	font-family: 'Gilroy', sans-serif;
+	-moz-osx-font-smoothing: grayscale;   /* Firefox */
+	-webkit-font-smoothing: antialiased; /* WebKit  */
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy'), url('/fonts/gilroy-extrabold-webfont.woff') format('woff');
+}
+
+.flicker-global {
+	animation: flicker-global 0.3s ease-in;
+}
+
+@keyframes flicker-global {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.logospin1 {
+	animation: spin 12s linear infinite;
+}
+.logospin2 {
+	animation: spin-reverse 17s linear infinite;
+}
+@keyframes spin {
+	100% {
+		transform: rotate(-360deg);
+	}
+}
+@keyframes spin-reverse {
+	100% {
+		transform: rotate(360deg);
+	}
+}

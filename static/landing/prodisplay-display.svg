@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="908px" height="518px" viewBox="0 0 908 518" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pro display</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="890" height="500"></rect>
+        <linearGradient x1="100%" y1="33.6824883%" x2="0%" y2="66.3175117%" id="linearGradient-3">
+            <stop stop-color="#7C69EE" offset="0%"></stop>
+            <stop stop-color="#A435E4" offset="34.7565287%"></stop>
+            <stop stop-color="#D66973" offset="64.1118011%"></stop>
+            <stop stop-color="#EB9B27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-7" transform="translate(-400.000000, -13.000000)">
+            <g id="pro-display" transform="translate(400.000000, 13.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#000000" x="0.5" y="0.5" width="907" height="517" rx="5"></rect>
+                <g id="prodisplay" transform="translate(9.000000, 9.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="prodisplay-display" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-Copy-2" stroke="#979797" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="-6.5" y="-9.5" width="904" height="516"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

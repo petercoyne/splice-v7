@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>server (1)</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-Copy-12" transform="translate(-258.000000, -759.000000)" stroke="#7C69EE">
+            <g id="server-(1)" transform="translate(259.000000, 760.000000)">
+                <rect id="Rectangle" stroke-width="1.31506849" fill="#FFFFFF" x="0" y="0" width="27" height="10.4516129" rx="3.59452055"></rect>
+                <rect id="Rectangle" stroke-width="1.31506849" fill="#FFFFFF" x="0" y="16.5483871" width="27" height="10.4516129" rx="3.59452055"></rect>
+                <line x1="5.21709677" y1="5.22580645" x2="5.23451613" y2="5.22580645" id="Path" stroke-width="3.52876712"></line>
+                <line x1="5.21709677" y1="21.7741935" x2="5.23451613" y2="21.7741935" id="Path" stroke-width="3.52876712"></line>
+            </g>
+        </g>
+    </g>
+</svg>

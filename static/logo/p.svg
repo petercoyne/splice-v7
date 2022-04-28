@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-91.000000, -43.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="S-P-L-I-C-E" transform="translate(76.450000, 43.148000)">
+                <path d="M19.73,0.252 L14.96,0.252 L14.96,12.852 L17.84,12.852 L17.84,8.892 L19.73,8.892 C22.214,8.892 24.14,6.966 24.14,4.572 C24.14,2.178 22.214,0.252 19.73,0.252 Z M19.73,6.192 L17.84,6.192 L17.84,2.952 L19.73,2.952 C20.612,2.952 21.26,3.654 21.26,4.572 C21.26,5.49 20.612,6.192 19.73,6.192 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

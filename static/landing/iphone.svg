@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="248px" viewBox="0 0 120 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kphone</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="110" height="238" rx="9.6"></rect>
+        <linearGradient x1="63.8617243%" y1="0%" x2="36.1382757%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7C69EE" offset="0%"></stop>
+            <stop stop-color="#A435E4" offset="34.7565287%"></stop>
+            <stop stop-color="#D66973" offset="64.1118011%"></stop>
+            <stop stop-color="#EB9B27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-7" transform="translate(-1401.000000, -465.000000)">
+            <g id="kphone" transform="translate(1401.000000, 465.000000)">
+                <rect id="Rectangle" stroke="#979797" stroke-width="1.2" fill="#000000" x="0.6" y="0.6" width="118.8" height="246.8" rx="13.2"></rect>
+                <g id="Group-3" transform="translate(5.000000, 5.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="phone-display" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-Copy-3" stroke="#979797" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="-10.5" y="-3.5" width="128" height="244"></rect>
+                </g>
+                <g id="Group" transform="translate(36.000000, 4.000000)" fill="#000000">
+                    <path d="M45,0 L45,4.00691835 C45,6.0908434 44.7830201,6.84652498 44.3755773,7.60837683 C43.9681345,8.37022868 43.3702287,8.96813448 42.6083768,9.3755773 C41.846525,9.78302013 41.0908434,10 39.0069183,10 L10.9930817,10 C8.9091566,10 8.15347502,9.78302013 7.39162317,9.3755773 C6.62977132,8.96813448 6.03186552,8.37022868 5.6244227,7.60837683 C5.21697987,6.84652498 5,6.0908434 5,4.00691835 L5,0 L45,0 Z" id="Combined-Shape"></path>
+                    <path d="M50,1 L49.9984444,1.01914628 C48.6571064,1.0803294 48.0223546,1.28710381 47.3916232,1.6244227 C46.6297713,2.03186552 46.0318655,2.62977132 45.6244227,3.39162317 C45.2871038,4.02235465 45.0803294,4.65710645 45.0191463,5.99844445 L45,6 L45,1 L50,1 Z" id="Combined-Shape"></path>
+                    <path d="M5,1 L4.99844445,1.01914628 C3.65710645,1.0803294 3.02235465,1.28710381 2.39162317,1.6244227 C1.62977132,2.03186552 1.03186552,2.62977132 0.624422695,3.39162317 C0.287103808,4.02235465 0.0803293955,4.65710645 0.0191462796,5.99844445 L0,6 L0,1 L5,1 Z" id="Combined-Shape-Copy" transform="translate(2.500000, 3.500000) scale(-1, 1) translate(-2.500000, -3.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
